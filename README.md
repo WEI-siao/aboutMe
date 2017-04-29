@@ -22,18 +22,18 @@
 - HTML/CSS 
   - 熟悉 HTML 、 CSS 完成網頁架構與開發
   - 在不使用 Framework 的情況下，自行開發 RWD 網站
-  - 使用自動化工具 Jade 及 Sass 有效管理專案開發
+  - 使用自動化工具 Jade 及 Sass 有效管理專案開發
 
--JavaScript
-  - 有效掌握 JavaScript 基本語法操控 DOM 元素完成互動效果
-  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動網頁
-  - 使用 Ajax 串接後端 API 資料 及 撈取各種 Open Data 資料，並即時呈現至網頁中
+- JavaScript
+  - 有效掌握 JavaScript 基本語法操控 DOM 元素完成互動效果
+  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動網頁
+  - 使用 Ajax 串接後端 API 資料 及 撈取各種 Open Data 資料，並即時呈現至網頁中
   
--PHP/MySql
-  - 熟悉網站後端程式設計與開發，並提供 API 串接網頁前端資訊
+- PHP/MySql
+  - 熟悉網站後端程式設計與開發，並提供 API 串接網頁前端資訊
   - 熟悉資料庫設計及管理
 
--Git
+- Git
   - 熟悉 Git / Github 版本控制指令
 
 
