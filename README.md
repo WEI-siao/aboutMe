@@ -19,7 +19,8 @@
 
 ## 專業技能
 
-- HTML & CSS - 熟悉 HTML 、 CSS 完成網頁架構與開發
+- HTML & CSS 
+  - 熟悉 HTML 、 CSS 完成網頁架構與開發
 - RWD        - 在不使用 Framework 的情況下，自行開發 RWD 網站
 - JavaScript - 有效掌握基本語法製作各種互動效果
 - jQuery     - 運用各種 jQuery Plugin 及 jQuery UI 開發互動效果
