@@ -41,24 +41,21 @@
 ## 作品集
 
 - [六角西餐廳 - Single page](https://wei-siao.github.io/hamburg) 
-
   - HTML + CSS + Jquery 網頁佈局及製作動畫效果
   - Sass 規劃製作 RWD 版型
   - Jade 樣板製作
   
 - [高雄旅遊資訊網](http://wss.twbbs.org/Kaohsiung_travel) 
-
   - HTML + CSS 網頁佈局
-  - Sass 規劃網頁排版
-  - Jade 樣板製作
-  - Javascript 操作網頁元素，並利用 AJAX/JSON 讀取高雄市政府提供的旅遊 API
+  - Sass 規劃網頁排版
+  - Jade 樣板製作
+  - Javascript 操作網頁元素，並利用 AJAX/JSON 讀取高雄市政府提供的旅遊 API
   
-- [BMI記錄器](http://wss.twbbs.org/bmi) 
-
+- [BMI記錄器](https://wei-siao.github.io/bmi/) 
   - HTML + CSS 網頁佈局
-  - Sass 規劃網頁排版
-  - Jade 樣板製作
-  - Javascript 操作網頁元素，並利用 LocalStorage 記錄相關資訊
+  - Sass 規劃網頁排版
+  - Jade 樣板製作
+  - Javascript 操作網頁元素，並利用 LocalStorage 記錄相關資訊
   
 
 
