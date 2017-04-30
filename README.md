@@ -23,7 +23,7 @@
   - 熟悉 HTML 、 CSS 完成網頁架構與開發
   - 在不使用 Framework 的情況下，自行開發 RWD 網站
   - 使用自動化工具 Jade 有效管理專案開發
-  - 使用 Sass 規劃 RWD web layout
+  - 使用 Sass 規劃 RWD web layout
 
 - JavaScript
   - 有效掌握 JavaScript 基本語法操控 DOM 元素完成互動效果
