@@ -41,9 +41,9 @@
 ## 作品集
 
 - [六角西餐廳 - Single page](https://wei-siao.github.io/hamburg) 
-  - HTML + CSS + Jquery 網頁佈局及製作動畫效果
-  - Sass 規劃製作 RWD 版型
-  - Jade 樣板製作
+  - HTML + CSS + Jquery 網頁佈局及製作動畫效果
+  - Sass 規劃製作 RWD 版型
+  - Jade 樣板製作
   
 
 
