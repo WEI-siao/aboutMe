@@ -26,9 +26,9 @@
   - 使用 Sass 規劃 RWD web layout
 
 - JavaScript
-  - 有效掌握 JavaScript 基本語法操控網頁元素完成互動效果
-  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
-  - 使用 Ajax 串接後端 API 資料 及 撈取各種 Open Data 資料，並即時呈現至網頁中
+  - 有效掌握 JavaScript 基本語法操控網頁元素完成互動效果
+  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
+  - 使用 Ajax 串接後端 API 資料 及 撈取各種 Open Data 資料，並即時呈現至網頁中
   
 - PHP/MySql
   - 使用 PHP 開發後端管理平台，並利用 Ajax 串接 API 存取資料庫
@@ -61,10 +61,9 @@
   - HTML + CSS 網頁佈局
   - Jquery 網頁動畫特效
   - Ajax 串接後端 API 撈取商品相關資料
-  - PHP + MySql 建立後端管理平台
+  - PHP + MySql 建立後端管理平台
   - 串接歐付寶金流功能
   
-  
 - [嘉義縣民生護理之家](http://www.msnh.com.tw/) 
   - HTML + CSS 網頁佈局
   - Jquery 網頁動畫特效
