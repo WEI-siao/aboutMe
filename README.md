@@ -60,9 +60,9 @@
 - [TAI YU ARTS shop](http://wss.twbbs.org/taiyushop) 
   - HTML + CSS 網頁佈局
   - Jquery 網頁動畫特效
-  - Ajax 串接後端 API 撈取商品相關資料
-  - PHP + MySql 建立後端管理平台
-  - 串接歐付寶金流功能
+  - Ajax 串接後端 API 撈取商品相關資料
+  - PHP + MySql 建立後端管理平台
+  - 串接歐付寶金流功能
   
 - [嘉義縣民生護理之家](http://www.msnh.com.tw/) 
   - HTML + CSS 網頁佈局
