@@ -19,7 +19,7 @@
 
 ## 專業技能
 
-- HTML/CSS 
+- Web Layout
   - 熟悉 HTML 、 CSS 完成網頁架構與開發
   - 在不使用 Framework 的情況下，自行開發 RWD 網站
   - 使用自動化工具 Jade 有效管理專案開發
@@ -46,33 +46,26 @@
   - Jade 樣板製作
   
 - [高雄旅遊資訊網](http://wss.twbbs.org/Kaohsiung_travel) 
-  - HTML + CSS 網頁佈局
   - Sass 規劃網頁排版
   - Jade 樣板製作
   - Javascript 操作網頁元素，並利用 AJAX/JSON 讀取高雄市政府提供的旅遊 API
   
 - [BMI記錄器](https://wei-siao.github.io/bmi/) 
-  - HTML + CSS 網頁佈局
   - Sass 規劃網頁排版
   - Jade 樣板製作
   - Javascript 操作網頁元素，並利用 LocalStorage 記錄相關資訊
   
 - [泰郁  美學．堂](http://wss.twbbs.org/taiyugallery) 
-  - HTML + CSS 網頁佈局
+  - PHP + MySql 建立後端管理平台
   - Jquery 網頁動畫特效
   - Sass 規劃製作 RWD 版型
-  - PHP + MySql 建立後端管理平台
   
 - [TAI YU ARTS shop](http://wss.twbbs.org/taiyushop) 
-  - HTML + CSS 網頁佈局
-  - Jquery 網頁動畫特效
-  - Bootstrap 製作 RWD 版型
   - Ajax 串接後端 API 撈取商品相關資料
   - PHP + MySql 建立後端管理平台
   - 串接歐付寶金流功能
   
 - [嘉義縣民生護理之家](http://www.msnh.com.tw/) 
-  - HTML + CSS 網頁佈局
   - Jquery 網頁動畫特效
   - Bootstrap 製作 RWD 版型
   - PHP + MySql 建立後端管理平台
