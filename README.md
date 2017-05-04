@@ -57,6 +57,12 @@
   - Jade 樣板製作
   - Javascript 操作網頁元素，並利用 LocalStorage 記錄相關資訊
   
+- [泰郁  美學．堂](http://wss.twbbs.org/taiyugallery) 
+  - HTML + CSS 網頁佈局
+  - Jquery 網頁動畫特效
+  - Sass 規劃製作 RWD 版型
+  - PHP + MySql 建立後端管理平台
+  
 - [TAI YU ARTS shop](http://wss.twbbs.org/taiyushop) 
   - HTML + CSS 網頁佈局
   - Jquery 網頁動畫特效
