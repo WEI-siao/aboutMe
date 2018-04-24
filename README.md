@@ -34,7 +34,7 @@
   - 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
 
 - JavaScript
-  - 有效開發掌握 RESTful API, JSON, AJAX
+  - 有效開發掌握 RESTful API, JSON, AJAX
   - 有效運用 Vue.JS 開發 SPA
   - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
   
