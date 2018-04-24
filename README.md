@@ -29,9 +29,9 @@
 - Web Layout
   - 熟悉 HTML, CSS 完成網頁架構與開發
   - 在不使用 Framework 的情況下，自行開發 RWD 網站
-  - 使用自動化工具 Gulp 有效管理專案任務及開發
-  - 使用模板引擎 Pug 管理 HTML
-  - 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
+  - 使用自動化工具 Gulp 有效管理專案任務及開發
+  - 使用模板引擎 Pug 管理 HTML
+  - 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
 
 - JavaScript
   - 有效開發掌握 RESTful API, JSON, AJAX
