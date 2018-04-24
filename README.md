@@ -9,9 +9,16 @@
 
 ## 經歷
 
+#### 燦坤3C網路購物公司-快三電商 擔任 前端設計師 - 2017/06 ~ 迄今
+
+- 使用 Bootstrap4 改版行動版網頁，有效提升使用率
+- 導入 Vue.JS 使用 RESTful API，有效提升網頁效能及使用者體驗
+- 導入 Gulp, Pug, Scss 相關工具，有效管理開發效率
+- 維護與更新原有的網頁資訊
+
 #### 安聯國際貿易有限公司 擔任 網頁程式設計師 - 2015/09 ~ 2017/03
 
-- 使用前端框架 bootstrap 及 後端語言 php 開發線上履歷填寫網，提升公司面試的效率及有效管理履歷資料
+- 使用前端框架 Bootstrap 及 後端語言 php 開發線上履歷填寫網，提升公司面試的效率及有效管理履歷資料
 - 與視覺設計師開發購物網，並導入後台管理系統(含：商品、訂單、留言相關管理)
 - 開發藝術空間的形象官網，並導入後台管理系統(含：展覽、藝術家、留言相關管理)
 - 維護與更新原有的網頁資訊
@@ -20,19 +27,19 @@
 ## 專業技能
 
 - Web Layout
-  - 熟悉 HTML 、 CSS 完成網頁架構與開發
+  - 熟悉 HTML, CSS 完成網頁架構與開發
   - 在不使用 Framework 的情況下，自行開發 RWD 網站
-  - 使用自動化工具 Jade 有效管理專案開發
-  - 使用 Sass 規劃 RWD web layout
+  - 使用自動化工具 Gulp 有效管理專案任務及開發
+  - 使用模板引擎 Pug 管理 HTML
+  - 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
 
 - JavaScript
-  - 有效掌握 JavaScript 基本語法操控網頁元素完成互動效果
-  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
-  - 使用 Ajax 串接後端 API 資料 及 撈取各種 Open Data 資料，並即時呈現至網頁中
+  - 有效開發掌握 RESTful API, JSON, AJAX
+  - 有效運用 Vue.JS 開發 SPA
+  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
   
 - PHP/MySql
   - 使用 PHP 開發後端管理平台，並利用 Ajax 串接 API 存取資料庫
-  - 熟悉資料庫設計及管理
 
 - Git
   - 熟悉 Git / Github 版本控制指令
