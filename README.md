@@ -44,7 +44,7 @@
   - Sass 規劃製作 RWD 版型
   - Jade 樣板製作
   
-- [高雄旅遊資訊網](http://wss.twbbs.org/Kaohsiung_travel) 
+- [高雄旅遊資訊網](http://wss.myds.me/Kaohsiung_travel) 
   - AJAX/JSON 讀取高雄市政府提供的旅遊 API
   
 - [BMI記錄器](https://wei-siao.github.io/bmi/) 
@@ -54,11 +54,11 @@
   - PHP + MySql 建立後端管理平台
   - RWD
   
-- [泰郁  美學．堂](http://wss.twbbs.org/taiyugallery) 
+- [泰郁  美學．堂](http://wss.myds.me/taiyugallery) 
   - PHP + MySql 建立後端管理平台
   - Sass + RWD
   
-- [TAI YU ARTS shop](http://wss.twbbs.org/taiyushop) 
+- [TAI YU ARTS shop](http://wss.myds.me/taiyushop) 
   - 串接歐付寶金流功能
   - PHP + MySql 建立後端管理平台
   - Ajax 串接後端 API 撈取商品相關資料
