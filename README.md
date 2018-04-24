@@ -35,8 +35,8 @@
 
 - JavaScript
   - 有效開發掌握 RESTful API, JSON, AJAX
-  - 有效運用 Vue.JS 開發 SPA
-  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
+  - 有效運用 Vue.JS 開發 SPA
+  - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
   
 - PHP/MySql
   - 使用 PHP 開發後端管理平台，並利用 Ajax 串接 API 存取資料庫
