@@ -23,6 +23,19 @@
 - 開發藝術空間的形象官網，並導入後台管理系統(含：展覽、藝術家、留言相關管理)
 - 維護與更新原有的網頁資訊
 
+- [嘉義縣民生護理之家](http://www.msnh.com.tw/) 
+  - PHP + MySql 建立後端管理平台
+  - RWD
+  
+- [泰郁  美學．堂](http://wss.myds.me/taiyugallery) 
+  - PHP + MySql 建立後端管理平台
+  - Sass + RWD
+ 
+- [TAI YU ARTS shop](http://wss.myds.me/taiyushop) 
+  - 串接歐付寶金流功能
+  - PHP + MySql 建立後端管理平台
+  - Ajax 串接後端 API 撈取商品相關資料
+
 
 ## 專業技能
 
@@ -43,32 +56,6 @@
 - Git
   - 熟悉 Git / Github 版本控制指令
 
-
-## 作品集
-
-- [六角西餐廳 - Single page](https://wei-siao.github.io/hamburg) 
-  - Sass 規劃製作 RWD 版型
-  - Jade 樣板製作
-  
-- [高雄旅遊資訊網](http://wss.myds.me/Kaohsiung_travel) 
-  - AJAX/JSON 讀取高雄市政府提供的旅遊 API
-  
-- [BMI記錄器](https://wei-siao.github.io/bmi/) 
-  - RWD + Sass + Jade
-  
-- [嘉義縣民生護理之家](http://www.msnh.com.tw/) 
-  - PHP + MySql 建立後端管理平台
-  - RWD
-  
-- [泰郁  美學．堂](http://wss.myds.me/taiyugallery) 
-  - PHP + MySql 建立後端管理平台
-  - Sass + RWD
-  
-- [TAI YU ARTS shop](http://wss.myds.me/taiyushop) 
-  - 串接歐付寶金流功能
-  - PHP + MySql 建立後端管理平台
-  - Ajax 串接後端 API 撈取商品相關資料
-  
 ## 自我介紹
 
 - 近期透過自學與線上學習增進前端開發技術
