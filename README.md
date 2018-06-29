@@ -16,7 +16,8 @@
 - 導入 Gulp, Pug, Scss 相關工具，有效管理開發效率
 - 維護與更新原有的網頁資訊
 
-- [快三網路商城](https://www.tkec.com.tw/mobile/mob_index.aspx) 
+- [快三網路商城(行動裝置版)](https://www.tkec.com.tw/mobile/mob_index.aspx) 
+  - 首頁改版及優化選單介面
   - 使用 jQuery + AJAX 串接 RESTful API
   - Bootstrap4
   - Sass + Pug
