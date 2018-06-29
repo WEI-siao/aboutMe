@@ -16,6 +16,15 @@
 - 導入 Gulp, Pug, Scss 相關工具，有效管理開發效率
 - 維護與更新原有的網頁資訊
 
+- [快三網路商城](https://www.tkec.com.tw/mobile/mob_index.aspx) 
+  - 使用 jQuery + AJAX 串接 RESTful API
+  - Bootstrap4
+  - Sass + Pug
+
+- [快三空調現場勘察預約服務](http://www.tkec.com.tw/Events/2018Air/index.aspx) 
+  - 使用 Vue.Js 串接 RESTful API
+  - Sass + RWD
+
 #### 安聯國際貿易有限公司 擔任 網頁程式設計師 - 2015/09 ~ 2017/03
 
 - 使用前端框架 Bootstrap 及 後端語言 php 開發線上履歷填寫網，提升公司面試的效率及有效管理履歷資料
