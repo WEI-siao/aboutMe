@@ -11,9 +11,9 @@
 
 #### 快三電商服務股份有限公司(燦坤) 擔任 前端工程師 - 2017/06 ~ 迄今
 
-- 使用 Bootstrap4 快速改版行動版網頁，有效提升使用率及體驗
 - 導入 Vue.JS 並使用 RESTful API，有效提升網頁效能及使用者體驗
 - 導入 Gulp, Pug, Scss 相關工具，有效管理開發效率
+- 使用 Bootstrap4 快速改版行動版網頁，有效提升使用率及體驗
 - 維護與更新原有的網頁資訊
 
 - [快三網路商城(行動裝置版)](https://www.tkec.com.tw/mobile/mob_index.aspx) 
@@ -49,16 +49,16 @@
 
 ## 專業技能
 
-- 熟悉 HTML, CSS 完成網頁架構與開發
-- 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
-- 在不使用 Framework 的情況下，自行開發 RWD 網站
-- 使用自動化工具 Gulp 有效管理專案任務及開發
-- 使用模板引擎 Pug 管理 HTML
-  
 - JavaScript
   - 有效開發掌握 RESTful API, JSON, AJAX
   - 有效運用 Vue.JS 開發 SPA
   - 運用各種 jQuery Plugin 及 jQuery UI 開發互動功能
+
+- 使用 Gulp / Webpack 建構工具，有效管理專案任務及開發
+- 熟悉 HTML, CSS 完成網頁架構與開發
+- 使用 Sass/Scss 規劃 RWD web layout 及有效開發 CSS
+- 在不使用 Framework 的情況下，自行開發 RWD 網站
+- 使用模板引擎 Pug 管理 HTML
   
 - PHP/MySql
   - 使用 PHP 開發後端管理平台，並利用 Ajax 串接 API 存取資料庫
